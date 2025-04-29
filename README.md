@@ -13,14 +13,23 @@
    
 ##📁 PROJECT STRUCTURE
              src/
+             
              ├── main/
+             
              │    ├── java/
+             
              │    │    └── com.trainreservation/
+             
              │    │         ├── controller/
+             
              │    │         ├── model/
+             
              │    │         ├── util/
+             
              │    │         └── view/
+             
              │    └── resources/
+             
              │         └── config.properties
              └── test/
              
